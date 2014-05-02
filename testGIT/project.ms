@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project xmlns="http://www.axway.com/mappingServices/project" createdBy="didragoescu" lastModifiedBy="didragoescu" checksumTest="true" creationDate="02/05/2014 14:18:22 +0300" engineType="DML" lastModifiedDate="02/05/2014 14:18:22 +0300" engineVersion="2.0"/>
