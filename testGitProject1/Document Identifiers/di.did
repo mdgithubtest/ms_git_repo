@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<documentIdentifier xmlns="http://www.axway.com/mappingServices/documentIdentifier" id="b637911a-2bae-41aa-b129-57910d912d66">
+   <dmlExpression><![CDATA[setAttribute( "", "" )]]></dmlExpression>
+   <signature appVersion="3.0.0" lastUpdatedOn="08/05/2014 16:10:10 +0300"/>
+   <documentName>~/Business Documents/bdoc1.bdoc</documentName>
+</documentIdentifier>
